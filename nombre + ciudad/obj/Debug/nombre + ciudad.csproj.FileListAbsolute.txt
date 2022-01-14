@@ -1,0 +1,6 @@
+C:\Users\Alberto\source\repos\nombre + ciudad\nombre + ciudad\bin\Debug\nombre + ciudad.exe.config
+C:\Users\Alberto\source\repos\nombre + ciudad\nombre + ciudad\bin\Debug\nombre + ciudad.exe
+C:\Users\Alberto\source\repos\nombre + ciudad\nombre + ciudad\bin\Debug\nombre + ciudad.pdb
+C:\Users\Alberto\source\repos\nombre + ciudad\nombre + ciudad\obj\Debug\nombre + ciudad.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\source\repos\nombre + ciudad\nombre + ciudad\obj\Debug\nombre + ciudad.exe
+C:\Users\Alberto\source\repos\nombre + ciudad\nombre + ciudad\obj\Debug\nombre + ciudad.pdb
